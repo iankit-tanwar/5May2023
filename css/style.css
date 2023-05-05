@@ -1,0 +1,87 @@
+
+@font-face {
+    font-family: 'myFirstFont';
+    src: url("../fonts/AlexBrush-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'mysecfont';
+    src: url("../fonts/open-sans/OpenSans-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'my3font';
+    src: url("../fonts/cantarell/Cantarell-BoldOblique.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'my4font';
+    src: url("../fonts/chunkfive/ChunkFive-Regular.otf") format("opentype");
+}
+@font-face {
+    font-family: 'my5font';
+    src: url("../fonts/kaushan-script/KaushanScript-Regular.otf") format("opentype");
+}
+@font-face {
+    font-family: 'my6font';
+    src: url("../fonts/Nobile/Nobile-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'my7font';
+    src: url("../fonts/chunkfive/ChunkFive-Regular.otf") format("opentype");
+}
+@font-face {
+    font-family: 'my8font';
+    src: url("../fonts/cantarell/Cantarell-BoldOblique.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'my9font';
+    src: url("../fonts/open-sans/OpenSans-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'my10font';
+    src: url("../fonts/AlexBrush-Regular.ttf") format("truetype");
+}
+
+article {
+    border: 1px dashed red;
+}
+
+.h1 {
+    color: red;
+    font-family: 'myFirstFont';
+}
+.h2 {
+    color: blue;
+    font-family: 'mysecfont';
+}
+.h3 {
+    color: red;
+    font-family: 'my3font';
+}
+.h4 {
+    color: blue;
+    font-family: 'my4font';
+}
+.h5 {
+    color: red;
+    font-family: 'my5Font';
+}
+.h6 {
+    color: blue;
+    font-family: 'my6font';
+}
+.h7 {
+    color: red;
+    font-family: 'my7Font';
+}
+.h8 {
+    color: blue;
+    font-family: 'my8font';
+}
+.h9 {
+    color: red;
+    font-family: 'my9Font';
+}
+.h10 {
+    color: blue;
+    font-family: 'my10font';
+}
